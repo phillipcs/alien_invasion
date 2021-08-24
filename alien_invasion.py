@@ -61,8 +61,6 @@ class AlienInvasion:
         elif event.key == pygame.K_LEFT:
             self.ship.moving_left = False
 
-            #fjkdljaklfd
-
 
 if __name__ == '__main__':
     # Make a game instance, and run the game.
